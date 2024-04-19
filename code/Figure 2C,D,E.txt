@@ -1,0 +1,16 @@
+############# 
+
+    Pictures 2C drawn through online web site, http://egcloud.cib.cn/cloud/user/index-cn.html.
+
+############
+
+    Pictures 2D and E drawn through online web site, http://www.ehbio.com/test/venn/#/.
+
+    Data are provided in the excel table "Changes of gut microbiota at genus.xlsx".
+
+    The first column indicates the genus name.
+
+    The second column represents the grouping of comparisons.
+
+    Columns 3 to 5 show differences in gut microbes between groups:
+    A stands for LHvsHH,B for LHvsHT, and C for LHvsLT. F indicates that the gut microbiota is relatively significantly higher in the LH group, and T indicates that the relative subgroup is higher in the other group compared with LH.

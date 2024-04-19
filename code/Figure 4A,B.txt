@@ -1,0 +1,9 @@
+############# 
+
+    Pictures 4A and B drawn through tool, TBtools:https://github.com/CJ-Chen/TBtools.
+
+     Data are provided in the text "Figure 4 and B.txt".
+
+
+
+   

@@ -1,0 +1,19 @@
+	value	level	index
+1	0.997895 	RF	AUC
+2	0.990625 	RF	Accuracy
+3	0.993750 	RF	Sensitiviy
+4	0.987500 	RF	Spcificity
+5	0.987794 	RF	Precision
+6	0.990678 	RF	F1 Score
+7	0.920486 	SVM	AUC
+8	0.904167 	SVM	Accuracy
+9	0.885417 	SVM	Sensitiviy
+10	0.922917 	SVM	Spcificity
+11	0.920062 	SVM	Precision
+12	0.901869 	SVM	F1 Score
+13	0.902344 	GLM	AUC
+14	0.896875 	GLM	Accuracy
+15	0.910417 	GLM	Sensitiviy
+16	0.883333 	GLM	Spcificity
+17	0.888940 	GLM	Precision
+18	0.898174 	GLM	F1 Score
